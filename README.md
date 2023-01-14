@@ -2,6 +2,7 @@
 This repository has the content about how to use dynamixel motors.
 
 
+## Dynamixel Wizard Instalation
 
 ### Instalation in Linux
 
